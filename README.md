@@ -1,29 +1,28 @@
 ![](./README.gif)
 
-## 介绍
-LMNote 是原生代码写的富文本编辑器，支持如下功能：
+## Introduction
+LMNote It is a rich text editor written in native code and supports the following functions:
 
-1. 粗体、下划线、删除线
-2. 标题、副标题、正文格式
-3. 项目符号、有序列表、检查框段落样式
-4. 居左、居中、居右
-5. 插入图片
-6. 草稿功能
-7. 导出成 HTML
+1. Bold, underline, strikethrough
+2. Title, subtitle, body format
+3. Bullet, ordered list, check box paragraph style
+4. Left, centered, right
+5. Insert image
+6. Draft function
+7. Export to HTML
 
-### 存在问题
-由于开发和维护时间较少，仅开发了一个 Demo，未做良好封装且存在一些问题（短期内可能不会解决），但基本功能完整而且支持扩展，各位可以依据自己需要直接拿取所需的代码进行二次开发。
+### Problem
+Due to the lack of development and maintenance time, only one demo has been developed, which is not well packaged and has some problems (may not be solved in the short term), but the basic functions are complete and support extensions. You can directly get the required ones according to your needs. The code is redeveloped.
 
-**已知问题:**
+**Known issues: **
 
-1. 拼音输入过程中可能会有布局错误
-2. 输入内容中包含 emoji 时布局错误
-3. 图片前后输入文字显示错误
-4. 粘贴或是全选删除可能出现意外情况
+1. There may be a layout error during the pinyin input process
+2. The layout error when the input content contains emoji
+3. The input text before and after the picture shows an error.
+4. Paste or select all deletes may cause unexpected situations
 
-**未完成内容：**
+**Unfinished content: **
 
-1. 斜体
-2. 导出 HTML 上传图片部分代码
-3. 草稿存储图片优化
-
+1. Italic
+2. Export HTML upload image part code
+3. Draft storage image optimization
